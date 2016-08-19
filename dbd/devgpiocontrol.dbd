@@ -1,0 +1,2 @@
+device(mbbo,INST_IO,devGpioMbbo,"devledcontrol")
+registrar( "devLedControlConstRegister" )
